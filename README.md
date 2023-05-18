@@ -7,3 +7,7 @@
 
  <a href="https://instagram.com/_millena_gaby" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MillenaGabriella)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MillenaGabriella)](https://github.com/anuraghazra/github-readme-stats)
+
