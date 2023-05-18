@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas Lima 🖐️
+## Olá! Eu sou a Millena Gabriella Silva 🖐️
 
 
 <a href = "mailto:millenagabriella997@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
